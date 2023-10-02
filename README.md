@@ -9,3 +9,7 @@ Fonte dos dados: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_cov
 - Aprender a importância de visualizações adequadas
 - Levantar limitações nos estudos de dados
 - Calcular taxas de letalidade
+- Explorar boletins epidemiológicos de Influenza
+- Compreender os coeficientes de incidência e mortalidade
+- Visualizar a evolução de coeficientes e sua convergência
+- Juntar bases de fontes distintas
